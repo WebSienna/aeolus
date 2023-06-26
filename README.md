@@ -4,4 +4,4 @@
 </div>
 
 ---
-<p align="center">Something cool</p>
+<p align="center">Something cool, soon.</p>
