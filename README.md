@@ -4,4 +4,6 @@
 </div>
 
 ---
-<p align="center">Something cool, soon.</p>
+<p align="center">Prepare to embark on a celestial journey of design excellence, where your web experience will transcend the ordinary and soar among the stars.
+<br><br><sup>Coming soon</sup>
+</p>
