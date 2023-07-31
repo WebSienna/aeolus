@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Aeolus - Open & Easy</title>
+        <link rel="stylesheet" href="/style.css">
+        <link rel="preconnect" href="https://rsms.me/">
+        <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <header>
+            <h1>Aeolus</h1>
+            <nav>
+                <ul>
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+        </header>
+        <main>
+            <h1>Open <br><i>&</i> Easy</h1>
+            <p class="desc">Where Simplicity Meets Success</p>
+        </main>
+        <section id="start">
+            <p class="qoute">“The sound of <br>modern design”</p>
+            <p class="open-source">Power by Open Source.</p>
+            <div class="scroll-indicator">
+                <span>V</span>
+                <span>V</span>
+                <span>V</span>
+            </div>
+
+            <div class="coming-soon-container">
+                <h1 class="coming-soon-text">Coming <br>Soon</h1>
+              </div>
+        </section>
+        <script>
+        window.addEventListener('scroll', function() {
+            const scrollIndicator = document.querySelector('.scroll-indicator');
+            if (window.scrollY > 0) {
+                scrollIndicator.style.opacity = '1';
+            } else {
+                scrollIndicator.style.opacity = '0';
+            }
+        });
+        </script>
+    </body>
+</html>
