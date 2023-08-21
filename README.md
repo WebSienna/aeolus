@@ -1,6 +1,6 @@
 <div align="center">
-<img src="assets/aeolus.png?gh-dark-mode-only" height="40">
-<img src="assets/aeolus-mono.png?gh-light-mode-only" height="40">
+<img src="assets/aeolus.png#gh-dark-mode-only" height="40">
+<img src="assets/aeolus-mono.png#gh-light-mode-only" height="40">
 </div>
 
 ---
