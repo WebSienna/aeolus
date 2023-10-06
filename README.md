@@ -9,6 +9,6 @@
 </p>
 <p align="center">
 <sup>
-  &bull; Website Source: <a href="https://github.com/GabsEdits/aelous">GabsEdits/aelous</a>
+  &bull; Website Source: <a href="https://github.com/GabsEdits/aeolus">GabsEdits/aeolus</a>
 </sup>
 </p>
