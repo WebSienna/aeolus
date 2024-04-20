@@ -5,7 +5,7 @@
 
 ---
 <p align="center">Prepare to embark on a celestial journey of design excellence, where your web experience will transcend the ordinary and soar among the stars.
-<br><br><sup>Coming soon</sup>
+<br><br><sup><s>Coming soon</s></sup>
 </p>
 <p align="center">
 <sup>
